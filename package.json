@@ -1,5 +1,5 @@
 {
-	"name": "fileserver",
+	"name": "@moontoad/fileserver",
 	"version": "0.1.0",
 	"author": {
 		"name": "Wallace",
@@ -13,6 +13,10 @@
 	},
 	"bin": {
 		"fileserver": "./src/main.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/wallacegibbon/fileserver.git"
 	},
 	"dependencies": {
 		"koa": "^2.11.0",
