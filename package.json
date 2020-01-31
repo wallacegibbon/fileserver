@@ -1,6 +1,6 @@
 {
 	"name": "@moontoad/fileserver",
-	"version": "0.1.0",
+	"version": "0.1.2",
 	"author": {
 		"name": "Wallace",
 		"email": "wallacegibbon@outlook.com"
@@ -12,7 +12,7 @@
 		"start": "node ./src/main.js"
 	},
 	"bin": {
-		"fileserver": "./src/main.js"
+		"fileserver": "./bin/fileserver.js"
 	},
 	"repository": {
 		"type": "git",
